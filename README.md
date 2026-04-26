@@ -7,10 +7,10 @@
 <div align="center">
   <img src="https://istiack-29.github.io/profile.png" width="160" height="160" style="border-radius:50%; border: 2px solid #58A6FF;" alt="Istiack Ahamed Profile" />
 
-  <h1>Istiack Ahamed</h1>
+  <h1>Istiack Ahamed Khan</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Developer.+Writer.+Thinker.;Building+Systems+with+Purpose.;Disciplined+Engineering." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Developer.+Writer.+Protester.;Building+Systems+with+Purpose.;Disciplined+Engineering." alt="Typing SVG" />
   </a>
   
   <br />
@@ -114,6 +114,6 @@ I craft digital systems and translate complex logic into seamless architecture. 
 <br>
 
 <div align="center">
-  <p><i>"Discipline is the bridge between goals and accomplishment."</i></p>
-  <b>— ISTIACK AHAMED</b>
+  <p><i>"You can silence 50 scholars with 1 logical argument, But you can't convince 1 idiot with 50 logical arguments."</i></p>
+  <b>— ISTIACK AHAMED KHAN</b>
 </div>
