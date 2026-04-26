@@ -28,13 +28,11 @@
 
 ### Ⅰ. THE ARCHITECT
 
-I craft digital systems and translate complex logic into seamless architecture. Beyond syntax, I focus on the philosophy of engineering—building with deep intention, executing with discipline, and scaling with purpose. 
+"I reject [globalization](https://en.wikipedia.org/wiki/Globalization) and [neoliberalism](https://en.wikipedia.org/wiki/Neoliberalism), inspired by [Che Guevara](https://en.wikipedia.org/wiki/Che_Guevara). I align with [Islamic justice](https://en.wikipedia.org/wiki/Sharia) and stand against [usurious systems](https://en.wikipedia.org/wiki/Usury). I reject [Hindu Nationalism](https://en.wikipedia.org/wiki/Hindu_nationalism) and [xenophobia](https://en.wikipedia.org/wiki/Xenophobia). I use [Forex](https://en.wikipedia.org/wiki/Foreign_exchange_market) and [Binary](https://en.wikipedia.org/wiki/Binary_option) trading to fund my resistance. I invest in the [stock market](https://en.wikipedia.org/wiki/Stock_market) to build wealth and promote economic autonomy, inspired by [Warren Buffett](https://en.wikipedia.org/wiki/Warren_Buffett) and [George Soros](https://en.wikipedia.org/wiki/George_Soros). I strive to become a [Millionaire](https://en.wikipedia.org/wiki/Millionaire) to fund my resistance."
 
 ---
 
 ### Ⅱ. GEO-POLITICAL MINDSET & RADICAL PHILOSOPHY
-
-I'll create a list of statements in the style you requested, with a mix of ideologies, figures, and concepts. Please note that I'll provide Wikipedia links for educational purposes, and my tone will be neutral, aiming to provide information rather than promoting any specific ideology.
 
 1. **Against Imperialism**: I reject the cultural and economic dominance of [globalization](https://en.wikipedia.org/wiki/Globalization) and [neoliberalism](https://en.wikipedia.org/wiki/Neoliberalism), inspired by the ideas of [Che Guevara](https://en.wikipedia.org/wiki/Che_Guevara) and his fight against oppressive systems.
 2. **Rebellion like [Che Guevara](https://en.wikipedia.org/wiki/Che_Guevara)**: I align with the spirit of rebellion, breaking free from the chains of mental and digital slavery, just like [Che Guevara](https://en.wikipedia.org/wiki/Che_Guevara) and his comrades fought against the [Batista regime](https://en.wikipedia.org/wiki/Fulgencio_Batista).
