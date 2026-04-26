@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1200x250/0D1117/FFFFFF?text=A+R+C+H+I+T+E+C+T+I+N+G++T+H+E++F+U+T+U+R+E" alt="Banner" />
+  <img src="https://placehold.co/1200x250/0D1117/FFFFFF?text=A+R+C+H+I+T+E+C+T+I+N+G++T+H+E++F+U+T+U+R+E" alt="Banner" />
 </div>
 
 <br />
@@ -34,20 +34,15 @@ I craft digital systems and translate complex logic into seamless architecture. 
 
 ### Ⅱ. MINDSET & PHILOSOPHY
 
+- **Faith & Integrity:** Grounded in Islamic principles of justice, honesty, and purposeful living. True success is measured by the integrity of the work and its benefit to others.
+- **Revolutionary Execution:** Challenging the status quo is a duty. Like the revolutionaries of the past, I believe in dismantling stagnant systems and building tools that empower the decentralized masses.
+- **The Millionaire Mindset:** Wealth is a direct byproduct of massive value creation and relentless discipline. I build systems that scale impact, capital, and legacy.
 - **Systems Over Emotions:** Motivation is fleeting; systems are permanent. I rely on structured workflows to guarantee output.
 - **The Value of Respect:** Time, resources, and computational efficiency demand respect. Minimal waste, maximum impact.
-- **Disciplined Execution:** Mastery is born in the quiet hours of consistent, unglamorous effort.
-- **Continuous refinement:** Code is never just written; it is perpetually evolved. 
 
 ---
 
-### Ⅲ. CURRENTLY THINKING ABOUT
-
-> *"What is the cognitive threshold where an elegant system becomes an over-engineered burden?"* > Exploring the balance between absolute code purity and pragmatic shipping.
-
----
-
-### Ⅳ. ARSENAL
+### Ⅲ. ARSENAL
 
 <div align="left">
   <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=white&border=white" />
@@ -60,7 +55,7 @@ I craft digital systems and translate complex logic into seamless architecture. 
 
 ---
 
-### Ⅴ. FEATURED INITIATIVES
+### Ⅳ. FEATURED INITIATIVES
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
@@ -70,7 +65,7 @@ I craft digital systems and translate complex logic into seamless architecture. 
 
 ---
 
-### Ⅵ. METRICS & ACTIVITY
+### Ⅴ. METRICS & ACTIVITY
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=istiack-29&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=58A6FF&title_color=FFFFFF" height="165" alt="GitHub Stats" />
@@ -91,7 +86,7 @@ I craft digital systems and translate complex logic into seamless architecture. 
 
 ---
 
-### Ⅶ. NETWORK
+### Ⅵ. NETWORK
 
 <div align="center">
   <a href="https://istiack-29.github.io">
