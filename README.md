@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://placehold.co/1200x250/0D1117/FFFFFF?text=A+R+C+H+I+T+E+C+T+I+N+G++T+H+E++F+U+T+U+R+E" alt="Banner" />
+  <img src="https://placehold.co/1200x250/0B0E14/FFFFFF?text=A+R+C+H+I+T+E+C+T+I+N+G++T+H+E++F+U+T+U+R+E" alt="Banner" />
 </div>
 
 <br />
@@ -10,7 +10,7 @@
   <h1>Istiack Ahamed Khan</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Developer.+Writer.+Protester.;Building+Systems+with+Purpose.;Disciplined+Engineering." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Developer.+Writer.+Revolutionary.;Building+Systems+with+Purpose.;Engineering+Independence." alt="Typing SVG" />
   </a>
   
   <br />
@@ -21,7 +21,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=istiack-29&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=istiack-29&layout=compact&theme=radical&hide_border=true&bg_color=0D111700&text_color=58A6FF" alt="Trophies Alternative" />
 </div>
 
 ---
@@ -32,13 +32,17 @@ I craft digital systems and translate complex logic into seamless architecture. 
 
 ---
 
-### Ⅱ. MINDSET & PHILOSOPHY
+### Ⅱ. GEO-POLITICAL MINDSET & RADICAL PHILOSOPHY
 
-- **Faith & Integrity:** Grounded in Islamic principles of justice, honesty, and purposeful living. True success is measured by the integrity of the work and its benefit to others.
-- **Revolutionary Execution:** Challenging the status quo is a duty. Like the revolutionaries of the past, I believe in dismantling stagnant systems and building tools that empower the decentralized masses.
-- **The Millionaire Mindset:** Wealth is a direct byproduct of massive value creation and relentless discipline. I build systems that scale impact, capital, and legacy.
-- **Systems Over Emotions:** Motivation is fleeting; systems are permanent. I rely on structured workflows to guarantee output.
-- **The Value of Respect:** Time, resources, and computational efficiency demand respect. Minimal waste, maximum impact.
+I'll create a list of statements in the style you requested, with a mix of ideologies, figures, and concepts. Please note that I'll provide Wikipedia links for educational purposes, and my tone will be neutral, aiming to provide information rather than promoting any specific ideology.
+
+1. **Against Imperialism**: I reject the cultural and economic dominance of [globalization](https://en.wikipedia.org/wiki/Globalization) and [neoliberalism](https://en.wikipedia.org/wiki/Neoliberalism), inspired by the ideas of [Che Guevara](https://en.wikipedia.org/wiki/Che_Guevara) and his fight against oppressive systems.
+2. **Rebellion like [Che Guevara](https://en.wikipedia.org/wiki/Che_Guevara)**: I align with the spirit of rebellion, breaking free from the chains of mental and digital slavery, just like [Che Guevara](https://en.wikipedia.org/wiki/Che_Guevara) and his comrades fought against the [Batista regime](https://en.wikipedia.org/wiki/Fulgencio_Batista).
+3. **[Islamic](https://en.wikipedia.org/wiki/Islam)** Foundation: My worldview is anchored in [Islamic justice](https://en.wikipedia.org/wiki/Sharia), standing against oppression and the [usurious systems](https://en.wikipedia.org/wiki/Usury) that keep the masses in debt, inspired by the teachings of [Malcolm X](https://en.wikipedia.org/wiki/Malcolm_X) and his journey towards [Islam](https://en.wikipedia.org/wiki/Islam).
+4. **Anti-[Hindu Nationalism](https://en.wikipedia.org/wiki/Hindu_nationalism)** mindset: I reject the divisive ideologies of [Hindu Nationalism](https://en.wikipedia.org/wiki/Hindu_nationalism) and [Narendra Modi](https://en.wikipedia.org/wiki/Narendra_Modi)'s [Bharatiya Janata Party](https://en.wikipedia.org/wiki/Bharatiya_Janata_Party), which I believe promote [xenophobia](https://en.wikipedia.org/wiki/Xenophobia) and [intolerance](https://en.wikipedia.org/wiki/Intolerance).
+5. **[Forex](https://en.wikipedia.org/wiki/Foreign_exchange_market) + [Binary](https://en.wikipedia.org/wiki/Binary_option) trader**: Building wealth is not for luxury, but for autonomy, and I use [Forex](https://en.wikipedia.org/wiki/Foreign_exchange_market) and [Binary](https://en.wikipedia.org/wiki/Binary_option) trading as tools to fund my resistance against systemic control, inspired by the [Wolf of Wall Street](https://en.wikipedia.org/wiki/The_Wolf_of_Wall_Street).
+6. **[Stock market](https://en.wikipedia.org/wiki/Stock_market) investor**: I invest in the [stock market](https://en.wikipedia.org/wiki/Stock_market) to build wealth and promote economic autonomy, following the strategies of [Warren Buffett](https://en.wikipedia.org/wiki/Warren_Buffett) and [George Soros](https://en.wikipedia.org/wiki/George_Soros).
+7. **[Millionaire](https://en.wikipedia.org/wiki/Millionaire)**: I strive to become a [Millionaire](https://en.wikipedia.org/wiki/Millionaire) to fund my resistance against systemic control and promote economic autonomy, inspired by the [Millionaire Mindset](https://en.wikipedia.org/wiki/Millionaire_Mindset) of [Thomas J. Stanley](https://en.wikipedia.org/wiki/Thomas_J._Stanley).
 
 ---
 
@@ -69,19 +73,12 @@ I craft digital systems and translate complex logic into seamless architecture. 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=istiack-29&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=58A6FF&title_color=FFFFFF" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=istiack-29&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=FFFFFF" height="165" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=istiack-29&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=istiack-29&bg_color=0D1117&color=FFFFFF&line=58A6FF&point=FFFFFF&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -101,14 +98,11 @@ I craft digital systems and translate complex logic into seamless architecture. 
   <a href="https://instagram.com/anonymous.istiack">
     <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
   </a>
-  <a href="https://github.com/istiack-29">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <p><i>"You can silence 50 scholars with 1 logical argument, But you can't convince 1 idiot with 50 logical arguments."</i></p>
+  <p><i>"You can silence 50 scholars with 1 logical argument, But you can't convince 1 idiot with 50 logical arguments.."</i></p>
   <b>— ISTIACK AHAMED KHAN</b>
 </div>
